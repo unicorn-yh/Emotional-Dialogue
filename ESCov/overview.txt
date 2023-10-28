@@ -1,0 +1,33 @@
+{
+    "emotion_type": "anxiety", 
+    "problem_type": "problems with friends", 
+    "situation": "my friends refuse to take the pandemic seriously", 
+    "dialog": [
+        {"text": "Hi", "speaker": "sys", "strategy": "Others"}, 
+        {"text": "Hello How are you?", "speaker": "usr"}, 
+        {"text": "I'm doing well. How are you?", "speaker": "sys", "strategy": "Question"}, 
+        {"text": "I'm actually not doing that great. I'm feeling pretty bad", "speaker": "usr"}, 
+        {"text": "I'm sorry to hear that, what's going on?", "speaker": "sys", "strategy": "Affirmation and Reassurance"}, 
+        {"text": "Well, I'm a little frustrated with my friends because they aren't taking the pandemic seriously.", "speaker": "usr"}, 
+        {"text": "They think it's a hoax.", "speaker": "usr"}, 
+        {"text": "I see. I assume you are taking it seriously?", "speaker": "sys", "strategy": "Restatement or Paraphrasing"}, 
+        {"text": "Yes, I take it very seriously. I lost my grandfather to the illness earlier in the year and I also contracted it. I was sicker than I ever have been and I still can't smell or taste.", "speaker": "usr"}, 
+        {"text": "Oh wow, I'm very sorry to hear that! I'm sorry for your loss.", "speaker": "sys", "strategy": "Affirmation and Reassurance"}, 
+        {"text": "Do your friends know that you were sick or that you lost a loved one?", "speaker": "sys", "strategy": "Question"}, 
+        {"text": "Yeah they do which is why it's so frustrating to hear them talk about it not being real.", "speaker": "usr"}, 
+        {"text": "It really hurts", "speaker": "usr"}, 
+        {"text": "So they are not taking you seriously either then?", "speaker": "sys", "strategy": "Restatement or Paraphrasing"}, 
+        {"text": "That's really frustrating and I'm sorry to hear that.", "speaker": "sys", "strategy": "Reflection of feelings"}, 
+        {"text": "Do you have any friends who you can trust and talk to?", "speaker": "sys", "strategy": "Providing Suggestions"}, 
+        {"text": "I do, I have a few newer friends that I've made recently that have had lost family members too. They don't seem to think it's a hoax.", "speaker": "usr"}, 
+        {"text": "That can certainly be difficult to talk about. But maybe you can build stronger relationships with them.", "speaker": "sys", "strategy": "Providing Suggestions"}, 
+        {"text": "Friendships can change overtime and sometimes people who don't value the friendship can find themselves without friends.", "speaker": "sys", "strategy": "Information"}, 
+        {"text": "I know, it would be hard to say goodbye to them but I don't feel respected.", "speaker": "usr"}, 
+        {"text": "Maybe you don't have to say goodbye. Maybe you can just ignore them and see if any of them reach out to you.", "speaker": "sys", "strategy": "Providing Suggestions"}, 
+        {"text": "You shouldn't have to feel bad in a friendship. Friends are supposed to support each other. If you aren't feeling support, maybe it's time to make new friends.", "speaker": "sys", "strategy": "Providing Suggestions"}, 
+        {"text": "I think you're right, It's just hard to say goodbye to them. I may take your advice and just ignore them for a bit. My new friends seem to have better heads on their shoulders anyway and I like talking to them.", "speaker": "usr"}, 
+        {"text": "I think that's a great plan!", "speaker": "sys", "strategy": "Self-disclosure"}, 
+        {"text": "Thanks so much for your help!! I really appreciate it.", "speaker": "usr"}, 
+        {"text": "No problem! glad I could help!", "speaker": "sys", "strategy": "Others"}
+    ]
+}
